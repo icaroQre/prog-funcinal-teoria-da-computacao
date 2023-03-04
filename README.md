@@ -22,4 +22,5 @@
     <li> Evita efeitos colaterais </li>
     <li> Fácil manutenção </li>
     <li> Código mais generalista </li>
+    <li> Código mais curto </li>
   </ul>
